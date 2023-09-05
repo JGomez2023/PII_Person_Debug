@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6As0DT7O/UJUPJ9nPCtV5vUz1Tvt7dum/uFwEw4ucs95h0La4s97M4R3fn0oWH2588VLD6pBddcnscBH3yROXw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\juana\\OneDrive\\Escritorio\\P2\\PII_Person_Debug\\src\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juana\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
